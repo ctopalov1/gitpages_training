@@ -17,7 +17,7 @@ Adding links to text:
 
 ## Sample Table
 | Option | Description |
-| ------ | ----------- |
+| --- | --- |
 | file1 | information on bond rebalancer |
 | file2 | gui for rebalancer |
 
